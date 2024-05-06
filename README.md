@@ -24,3 +24,4 @@ Number 8![Landicho_StepResponse_Matlab_No 8](https://github.com/landichoqueen/CS
 Number 7![Landicho_StepResponse_Simulink_No 7](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159035207/387fffb9-4524-4839-8d91-7462522d7f81)
 
 Number 8![Landicho_StepResponse_Simulink_No 8](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159035207/1eee570d-b3c3-478c-bb2d-94824b8b9f96)
+
