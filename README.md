@@ -27,7 +27,7 @@ Number 4![Step Response S4](https://github.com/landichoqueen/CSE_StepResponse_ME
 
 Number 5![macaraig simulink no  5 illustration](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/9c40e7fa-6625-4458-a818-ae2821b4933c)
 
-Number 6 ![macaraig_no,6 step response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/a0281dc0-8e1b-4099-a506-afe24545e3d0)
+Number 6![macaraig simulink no  6](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/0f675f90-6e2e-4d9c-9c7e-98cdf8613fb7)
 
 Number 5![macaraig_no 5 step response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/dbf847a3-dd45-4254-9e0c-bcbc90cdfea3)
 
