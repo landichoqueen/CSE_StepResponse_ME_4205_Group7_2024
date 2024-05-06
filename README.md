@@ -28,10 +28,13 @@ Number 4![Step Response S4](https://github.com/landichoqueen/CSE_StepResponse_ME
 Number 5![macaraig simulink no  5 illustration](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/9c40e7fa-6625-4458-a818-ae2821b4933c)
 
 Number 5![macaraig_no 5 step response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/dbf847a3-dd45-4254-9e0c-bcbc90cdfea3)
+
 Number 5 ![macaraig simulink no  5](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/7d495002-2363-47d3-9fb4-4562fbccf6d7)
 
 Number 6![macaraig simulink no  6](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/6a9bc4d5-695a-4a49-a90b-397c32ef4aa4)
+
 Number 6 ![macaraig_no,6 step response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/a0281dc0-8e1b-4099-a506-afe24545e3d0)
+
 Number 6![MACARAIG SIMULINK NO 6](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/6eff0906-5eb5-4d56-a408-6a1c14db1e99)
 
 
