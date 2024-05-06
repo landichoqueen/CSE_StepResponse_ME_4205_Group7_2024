@@ -37,7 +37,6 @@ Number 5![macaraig_no 5 step response](https://github.com/landichoqueen/CSE_Step
 
 Number 6 ![macaraig_no,6 step response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159034563/a0281dc0-8e1b-4099-a506-afe24545e3d0)
 
-
 Number 7![Landicho_BlockDiagram_No 7](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159035207/b4a67734-fbc0-4f97-83b7-ca95fccd8f0f)
 
 Number 8![Landicho_BlockDiagram_No 8](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159035207/40ce5aed-7544-46e9-a1ae-5537487a5d19)
