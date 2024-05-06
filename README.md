@@ -1,6 +1,18 @@
 # CSE_StepResponse_ME_4205_Group7_2024
 Laboratory Activity 2
 
+Number 1![No  1_Block Diagram](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/9da9ff9d-8030-4bb0-b0d1-3c94da9e41c6)
+
+Number 2![No  2_Block Diagram](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/c6acfb68-4249-407d-b302-9fa2e99e6e71)
+
+Number 1![No  1_Figure](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/39db4ff0-8852-47b0-aa0a-93b13f748622)
+
+Number 2![No  2_Figure](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/5f877917-8ecc-4405-96f2-fc11861d1bdd)
+
+Number 1![No  1_Step Response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/1f37557b-9bdc-4633-a1fa-605dc6bdfbe8)
+
+Number 2![No  2_Step Response](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159397770/ba576689-f74b-49a8-ba04-144ad12238f6)
+
 Number 3![Block Diagram_No  3](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159044674/f7176b25-32e0-449d-80f8-aa561bf8dd5c)
 
 Number 4![Block Diagram_No  4](https://github.com/landichoqueen/CSE_StepResponse_ME_4205_Group7_2024/assets/159044674/fd01d3c2-4577-4efe-a290-6e71cd94d9c3)
